@@ -13,7 +13,8 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I chose for the game of Risk because I am playing this game since I turned 12 (something like that). Altough, I've had
+my moments, this project can give me some deeper insights that on their turn can bring me more victories.  
 
 ## Rules
 Briefly describe the rules of the game.
